@@ -28,6 +28,7 @@ body {
     padding: 10px;
     border-radius: 35px;
     margin-bottom: 25px;
+    text-align: center;
 }
 
 #image {
@@ -42,7 +43,23 @@ body {
     width: relative;
 }
 
+#info-header {
+    text-align: center;
+}
+
 #tribute-info {
     padding: 10px;
     border-radius: 35px;
+    margin-bottom: 25px;
+}
+
+#link-div {
+    padding: 10px;
+    border-radius: 35px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#tribute-link:hover {
+    color: blue;
 }
