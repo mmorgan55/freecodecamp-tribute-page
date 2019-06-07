@@ -53,6 +53,10 @@ body {
     margin-bottom: 25px;
 }
 
+li {
+    margin: 16px;
+}
+
 #link-div {
     padding: 10px;
     border-radius: 35px;
